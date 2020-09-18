@@ -2,7 +2,7 @@
   "name": "calculatorreact",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sarad27.github.io/React-Calculator",
+  "homepage":"https://sarad27.github.io/React-Calc",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
