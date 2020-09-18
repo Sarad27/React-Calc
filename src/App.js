@@ -33,7 +33,7 @@ class App extends Component {
     else{
       const newArr = [...this.state.values]
       if(this.state.reset === true){
-        if(key !== '/' && key !== '*' && key !== '+' && key !== '-'){
+        if(key !== '/' && key !== '*' && key !== '+' && key !== '-' && key !=='(' && key !==')') {
           newArr.length = 0
         }
         this.setState({reset:false})
